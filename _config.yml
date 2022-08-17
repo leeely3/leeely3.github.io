@@ -25,14 +25,14 @@ gems:
 
 social:
   - icon: linkedin
-    title: 作品
+    title: 作品展示
     url: https://www.linkedin.com/in/kevinlinvxd
   - icon: github
-    title: GitHub
+    title: 在线简历
     url: https://github.com/lleely
   - icon: file-pdf-o
-    title: 简历
+    title: PDF简历
     url: https://lleely.github.io/rsc/resume.pdf
   - icon: envelope-o
-    title: 邮箱
+    title: 联系邮箱
     url: mailto:3242236512@qq.com
