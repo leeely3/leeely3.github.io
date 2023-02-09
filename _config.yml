@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://lleely.github.io
+url: https://leeely3.github.io
 title: 吕莉莉
 email: 3242236512@qq.com
 author: Lily
@@ -29,10 +29,10 @@ social:
     url: https://www.yuque.com/docs/share/b92aa53e-f495-415f-b746-7c6afa36e04b?#
   #- icon: github
   #  title: 在线简历
-  #  url: https://github.com/lleely
+  #  url: https://github.com/leeely3
   - icon: file-pdf-o
     title: PDF简历
-    url: https://lleely.github.io/rsc/resume.pdf
+    url: https://leeely3.github.io/rsc/resume.pdf
   - icon: envelope-o
     title: 联系邮箱
     url: mailto:3242236512@qq.com
